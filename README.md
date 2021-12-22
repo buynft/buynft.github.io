@@ -1,1 +1,1 @@
-# buybft.github.io
+# buynft.github.io
