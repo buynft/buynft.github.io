@@ -1,0 +1,1 @@
+--- layout: redirected sitemap: false redirect_to: - https://buynft.cf permalink: /index.html ---
